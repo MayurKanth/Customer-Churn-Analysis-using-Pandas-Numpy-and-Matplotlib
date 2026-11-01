@@ -1,4 +1,4 @@
-# Customer-Churn-and Revenue Analysis-using-Pandas-Numpy-and-Matplotlib
+# Customer Churn and Revenue Analysis using Pandas Numpy and Matplotlib
 
 
 
